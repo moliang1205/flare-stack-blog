@@ -7,7 +7,7 @@ BETTER_AUTH_SECRET=your-secret-key-run-openssl-rand-hex-32
 BETTER_AUTH_URL=http://localhost:3000
 GITHUB_CLIENT_ID=your-github-client-id
 GITHUB_CLIENT_SECRET=your-github-client-secret
-DOMAIN=blog.example.com
+DOMAIN=moliang.cyou
 
 # 仅本地开发使用。设为 dev 时不会真正发信，验证链接打在控制台。
 # 生产环境不要设置，或设为 prod。
